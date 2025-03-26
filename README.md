@@ -69,10 +69,6 @@ How to Contribute:
 
     Open a pull request with a detailed description of what you’ve done.
 
-License
-
-This project is open-source and available under the MIT License. See the LICENSE file for more information.
-Acknowledgements
 
     Pygame: Used for building the game. Pygame
 
