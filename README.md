@@ -1,5 +1,5 @@
 # KaliSerpent
-A play on Kali Linux and the classic snake game, giving it a techy vibe.
+The only snake that eats data instead of mice! Guide your cyber serpent through the digital jungle, gobbling up bits of food while avoiding epic faceplants into walls and your own tail. Perfect for hackers who need a break from cracking codes—just don’t let your snake go buggy!
 
 
 **KaliSerpent** is a modern take on the classic Snake game, designed specifically for **Kali Linux** users. Dive into a hacker-inspired world where you control a cyber serpent, eating bits of data to grow while avoiding obstacles in this fast-paced game.
